@@ -22,7 +22,7 @@
        You use money directly from <span class="text-red-500">your bank account</span>
     </div>
     <div>
-        <img src="content/images/grimace.gif">
+        <img src="content/images/grimace.gif" />
     </div>
 </div>
 
@@ -30,7 +30,7 @@
 
 <div class="flex flex-row items-center">
     <div>
-        <img src="content/images/thinking.gif">
+        <img src="content/images/thinking.gif" />
     </div>
     <div class="w-1/2">
     <p>But with a credit card...</p>
@@ -143,7 +143,7 @@ This loses banks money, so let's look at an example of how
 
 <div class="flex flex-row justify-center items-center">
     <div>
-        <img src="content/images/plat.webp" class="w-64"/>
+        <img src="content/images/plat.webp" class="w-64" />
     </div>
     <div>
         <h3>The Amex Platinum Card</h3>
@@ -156,11 +156,12 @@ This loses banks money, so let's look at an example of how
 <p class="fragment fade-up">156,000 x $0.01 = <span class="text-blue-500">$1,560</span></p>
 <h3 class="fragment fade-up">Net loss for Amex<span class="text-red-500"> >$415</span></h3>
 
---
+---
 
 <h2>But wait, there's more</h2>
 
 <p>Additional benefits of the platinum card</p>
+
 <p class="fragment fade-up">Global Entry application fee covered <span class="text-red-500">-$100</span></p>
 <p class="fragment fade-up">$240 in Uber credit <span class="text-red-500">-$240</span></p>
 <p class="fragment fade-up">TSA CLEAR fee covered <span class="text-red-500">-$189</span></p>
@@ -210,6 +211,8 @@ It's important to know how your credit score is doing and how it will be affecte
 
 New cards + hard inquiries = a drop of ~20 points max
 
+> The more cards you have, the less your credit score will be impacted
+
 --
 
 ### 2. Knowing The bank's rules
@@ -221,6 +224,82 @@ New cards + hard inquiries = a drop of ~20 points max
 | C1    | 1/6  | 1 card every 6 months   |
 | Citi  | 1/24 | 1 bonus every 24 months |
 
+--
+
+### 3. Meet the sign up bonus requirements
+
+Keep track of your sign up bonus goals via other apps or spreadsheets
+
+> This is important if you have multiple cards churning at once
+
+--
+
+### 4. Limited time and Targeted bonuses
+
+<div class="flex items-center justify-center">
+    <img src="content/images/amex.png" class="w-4/6"/>
+</div>
+
+--
+
+### A real example
+
+<div class="flex flex-row space-x-12 justify-center">
+    <div class="w-64">
+        <img src="https://citicards.citi.com/content/dam/consumer-marketing/us-marketing-team/en/citi-cards-digital/aa-premier/ps/premier_card-ksqajx5x.jpg" />
+        <p class="font-bold">Citi Premier</p>
+        <p>80k for $4k in 4 months</p>
+    </div>
+    <div class="w-64">
+        <img src="content/images/plat.webp" />
+        <p class="font-bold">Amex Plat</p>
+        <p>150k for $6k in 6 months</p>
+    </div>
+    <div class="w-64">
+        <img src="https://cdn.prodstatic.com/shared/images/cards/278x175/ff304640-e963-11eb-a48f-65ac0bb53c5b.png" />
+        <p class="font-bold">C1 Venture</p>
+        <p>75k for $4k in 3 months</p>
+    </div>
+</div>
+
+--
+
+### The results
+
+<h3 class="fragment fade-up">Total Time: ~6 months</h3>
+<h3 class="fragment fade-up">Total Spend: $14,000</h3>
+<h3 class="fragment fade-up">Total hit to credit: <span class="text-red-500"> 80-150 points</span></h3>
+<h3 class="fragment fade-up">Rewards: 75k + 80k + 150k = 305k</h3>
+<h3 class="fragment fade-up">Rewards Value: 305k * $0.01 =<span class="text-blue-500"> >$3000</span></h3>
+
+--
+
+### Professor's Notes
+
+- Banks provide reconsideration lines if you are not approved for a card
+- Churn with a friend to get referral bonuses 😄
+- Business cards typically don't count towards the bank rules
+
+--
+
+You are now certified\* to churn
+
+<div class="flex items-center justify-center">
+    <img src="content/images/graduation.gif" class="w-4/6"/>
+</div>
+
 ---
 
-If all done correctly, congrats, you beat the system!!!
+# Congrats
+
+## You gamed the system!!!
+
+# 🎉 🥳
+
+--
+
+<div class="flex justify-center">
+    <img src="https://c.tenor.com/UMHdiHRwRAsAAAAC/thanks-thank-you.gif" />
+</div>
+
+## Any Questions?
