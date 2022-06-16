@@ -64,6 +64,8 @@ You'll have to call the bank, fill out an affidavit, get it notarized, mail it, 
 
 ## Step 1: Obtain a credit card
 
+> Find a card that suites your spending
+
 My general rule of thumb for if you should get a credit card
 
 ```python
@@ -75,7 +77,7 @@ else:
 
 --
 
-## Bonus: Figure out your spending habits
+## Figure out your spending habits
 
 <img src="content/images/categories.png" />
 
@@ -91,35 +93,23 @@ Use [credit card finders](https://www.nerdwallet.com/best/credit-cards/restauran
 
 ## Step 2: Don't carry a balance
 
-> This is the most important step in using a credit card
+> ⚠️ This is the most important step in using a credit card
 
----
-
-# Maximizing Credit Card Benefits
+Pay off your balance **in full** each month
 
 --
 
-There's literally millions upon millions of resources for stuff like this
+## Step 3: Put at least 1 charge on it each month
 
-<div>
-    <img src="content/images/results.png" />
-</div>
+> The biggest factor in determining credit score is <u>Payment History</u>
 
---
+Setup auto pay and put a small charge of $1 on each of your cards each month
 
-As well as companies built around this topic
-
-<div class="flex flex-row">
-    <img src="content/images/nerdwallet.png" />
-</div>
+❗❗ 4 accounts with 12 payments over 2 years is 96 payments on your history ❗❗
 
 --
 
-So this is like a 100k foot overview
-
-<div class="flex flex-row justify-center">
-    <img src="content/images/redbull.gif" />
-</div>
+![](<https://www.thebalance.com/thmb/kdMRLCCKlI0pdSCCAgsDjj3ACcQ=/1500x1000/filters:fill(auto,1)/things-that-boost-credit-score-960381-v2-9599c06fcdfd4108b67a291dabd43b7d.gif>)
 
 ---
 
