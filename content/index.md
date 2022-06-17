@@ -1,6 +1,5 @@
 <h1 class="">Credit Cards</h1>
-<h3 class="fragment fade-up">and How to Game the System</h3>
-<h1 class="fragment fade-in">😈</h1>
+<h3 class="fragment fade-up">and How to Game the System <p class="text-8xl">😈</p></h3>
 
 --
 
@@ -184,17 +183,6 @@ Also having a good credit score will help you immensely i.e. >700
 
 --
 
-### The Ground Rules
-
-1. Monitor your credit score
-2. Know the rules specific to each bank that backs the card
-3. Make sure to meet the specific sign up bonus requirements
-4. Take advantage of limited time bonuses and targeted offers
-
-Use resources like [r/churning](https://m16p-churning.s3.us-east-2.amazonaws.com/Card+Recommendation+Flowchart+v18.html)
-
---
-
 ### 1. Monitoring your credit score
 
 It's important to know how your credit score is doing and how it will be affected
@@ -221,14 +209,6 @@ New cards + hard inquiries = a drop of ~20 points max
 Keep track of your sign up bonus goals via other apps or spreadsheets
 
 > This is important if you have multiple cards churning at once
-
---
-
-### 4. Limited time and Targeted bonuses
-
-<div class="flex items-center justify-center">
-    <img src="content/images/amex.png" class="w-4/6"/>
-</div>
 
 --
 
@@ -270,14 +250,6 @@ Keep track of your sign up bonus goals via other apps or spreadsheets
 - Churn with a friend to get referral bonuses 😄
 - Business cards typically don't count towards the bank rules
 
---
-
-You are now certified\* to churn
-
-<div class="flex items-center justify-center">
-    <img src="content/images/graduation.gif" class="w-4/6"/>
-</div>
-
 ---
 
 # Congrats
@@ -293,3 +265,34 @@ You are now certified\* to churn
 </div>
 
 ## Any Questions?
+
+---
+
+# Extra slides
+
+--
+
+### The Ground Rules
+
+1. Monitor your credit score
+2. Know the rules specific to each bank that backs the card
+3. Make sure to meet the specific sign up bonus requirements
+4. Take advantage of limited time bonuses and targeted offers
+
+Use resources like [r/churning](https://m16p-churning.s3.us-east-2.amazonaws.com/Card+Recommendation+Flowchart+v18.html)
+
+--
+
+### 4. Limited time and Targeted bonuses
+
+<div class="flex items-center justify-center">
+    <img src="content/images/amex.png" class="w-4/6"/>
+</div>
+
+--
+
+You are now certified\* to churn
+
+<div class="flex items-center justify-center">
+    <img src="content/images/graduation.gif" class="w-4/6"/>
+</div>
