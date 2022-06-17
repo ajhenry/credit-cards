@@ -84,7 +84,7 @@ else:
 
 ## Find cards for your categories
 
-For me, ~70% of my spend falls into food, shopping, and rent
+For me, ~70% of my spending falls into food, shopping, and rent
 
 Use [credit card finders](https://www.nerdwallet.com/best/credit-cards/restaurants) to help out with this
 
